@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ondřej Vajda  
 
-<!--
-**ondrejvajda/ondrejvajda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 About Me
+I’m a developer who enjoys building things that actually make sense. I’m learning through real projects and improving step by step, mainly in web development.
 
-Here are some ideas to get you started:
+Technology is the field where I want to grow long-term. I’m interested not just in coding, but also in how products are built, how they work, and how they can be improved. My goal is simple: master the fundamentals, create useful things, and over time build my own products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m focused on strengthening my technical skills and building a portfolio that shows what I can do.
+
+## 🚀 Goals  
+- Build a strong and meaningful project portfolio
+- Develop and launch my own tech products
+- Keep improving every day
+
+## 📂 Current Projects
+- LocalFlix – a local web app that lets you browse, organize and play your own movie files.
+- Small web utilities and mini tools to improve my development skills
+
+## 📬 Contact  
+- **Website:** https://ondrejvajda.com
+- **Email:** ondrej.vajda@pm.me  
+- **Instagram:** @ondrejvajda
+- **GitHub:** You're already here
