@@ -1,23 +1,21 @@
-# 👋 Hi, I'm Ondřej Vajda  
+👋 Hi, I’m Ondřej Vajda
 
-## 🌐 About Me
-I’m a developer who enjoys building things that actually make sense. I’m learning through real projects and improving step by step, mainly in web development.
+I build useful software and small prototypes.
 
-Technology is the field where I want to grow long-term. I’m interested not just in coding, but also in how products are built, how they work, and how they can be improved. My goal is simple: master the fundamentals, create useful things, and over time build my own products.
+## About Me
+I focus mainly on web and backend development through real projects and practical problem-solving.  
+I’m interested in how products are built, improved, and maintained over time.
 
-Right now, I’m focused on strengthening my technical skills and building a portfolio that shows what I can do.
+## Focus
+- Build and ship small, useful projects
+- Improve fundamentals in web and backend development
+- Learn how real systems are designed and maintained
 
-## 🚀 Goals  
-- Build a strong and meaningful project portfolio
-- Develop and launch my own tech products
-- Keep improving every day
+## Current Projects
+- **LocalFlix** – a local web app to browse, organize, and play your own movie files
+- Small internal tools and experiments focused on improving development workflow
 
-## 📂 Current Projects
-- LocalFlix – a local web app that lets you browse, organize and play your own movie files.
-- Small web utilities and mini tools to improve my development skills
-
-## 📬 Contact  
-- **Website:** https://ondrejvajda.com
-- **Email:** ondrej.vajda@pm.me  
-- **Instagram:** @ondrejvajda
-- **GitHub:** You're already here
+## Contact
+- Website: https://ondrejvajda.com
+- Email: ondrejvajda@pm.me
+- Instagram: [@ondrejvajda](https://www.instagram.com/ondrejvajda/)
